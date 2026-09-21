@@ -1,0 +1,6 @@
+﻿{
+    "app_server_status": true,
+    "game_version": "1.0.0",
+    "lite_list_url": "https://pcyaeeyxtscyibdzanwx.supabase.co/storage/v1/object/public/game-assets/lite_list.json",
+    "samp_list_url": "https://pcyaeeyxtscyibdzanwx.supabase.co/storage/v1/object/public/game-assets/samp_list.json"
+}

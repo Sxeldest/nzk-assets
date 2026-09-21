@@ -1,0 +1,10 @@
+{
+  "name": "nezuko-discord-verifier",
+  "version": "1.0.0",
+  "description": "Bot verifikasi otomatis untuk SA-MP Mobile",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@supabase/supabase-js": "^2.39.7"
+  }
+}

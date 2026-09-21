@@ -1,0 +1,4 @@
+[dbg:samp:load] : module loading...
+[dbg:samp:load] : module loaded
+[sv:dbg:network:rpc] : rpc received.
+[sv:err:network:rpc] : not initStatus || invalid rpc id (25).

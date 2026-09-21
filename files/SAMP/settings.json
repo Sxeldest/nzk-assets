@@ -1,0 +1,32 @@
+{
+    "client": {
+        "server": {
+            "host": "play.uifserver.net",
+            "port": 7776,
+            "password": ""
+        },
+        "settings": {
+            "nick_name": "Ambarurus",
+            "samp_version": 0,
+            "new_interface": false,
+            "system_keyboard": true,
+            "timestamp": false,
+            "fullscreen": true,
+            "fast_connect": false,
+            "voice_chat": false,
+            "display_fps": true,
+            "cleo_scripts": false,
+            "aml_scripts": false,
+            "monet_scripts": false,
+            "modloader": false,
+            "modify_files": false,
+            "fps_limit": 60,
+            "chat_strings": 5,
+            "font_size": 28,
+            "chat_posx": 100,
+            "chat_posy": 10,
+            "chat_sizex": 400,
+            "chat_sizey": 150
+        }
+    }
+}
