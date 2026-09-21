@@ -12,7 +12,7 @@
                       "path":  "SAMP/colorcycle.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/colorcycle.dat",
                       "name":  "colorcycle.dat",
-                      "size":  13612
+                      "size":  13796
                   },
                   {
                       "gpu":  "all",
@@ -61,14 +61,14 @@
                       "path":  "SAMP/settings.json",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/settings.json",
                       "name":  "settings.json",
-                      "size":  872
+                      "size":  904
                   },
                   {
                       "gpu":  "all",
                       "path":  "SAMP/svlog.txt",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/svlog.txt",
                       "name":  "svlog.txt",
-                      "size":  167
+                      "size":  171
                   },
                   {
                       "gpu":  "all",
@@ -187,7 +187,7 @@
                       "path":  "texdb/samp/samp.txt",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/samp/samp.txt",
                       "name":  "samp.txt",
-                      "size":  89582
+                      "size":  91126
                   },
                   {
                       "gpu":  "all",
