@@ -2053,13 +2053,6 @@
                   },
                   {
                       "gpu":  "all",
-                      "path":  "texdb/mobile/mobile.unc.dat",
-                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.unc.dat",
-                      "name":  "mobile.unc.dat",
-                      "size":  5877914
-                  },
-                  {
-                      "gpu":  "all",
                       "path":  "texdb/mobile/mobile.unc.tmb",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.unc.tmb",
                       "name":  "mobile.unc.tmb",
