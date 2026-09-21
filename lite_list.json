@@ -3,1729 +3,1729 @@
                   {
                       "gpu":  "all",
                       "path":  "gtasatelem.set",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/gtasatelem.set",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/gtasatelem.set",
                       "name":  "gtasatelem.set",
                       "size":  392
                   },
                   {
                       "gpu":  "all",
                       "path":  "gta_sa.set",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/gta_sa.set",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/gta_sa.set",
                       "name":  "gta_sa.set",
                       "size":  167
                   },
                   {
                       "gpu":  "all",
                       "path":  "KeyboardMappings.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/KeyboardMappings.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/KeyboardMappings.cfg",
                       "name":  "KeyboardMappings.cfg",
                       "size":  3116
                   },
                   {
                       "gpu":  "all",
                       "path":  "stream.ini",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/stream.ini",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/stream.ini",
                       "name":  "stream.ini",
                       "size":  197
                   },
                   {
                       "gpu":  "all",
                       "path":  "anim/anim.img",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/anim/anim.img",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/anim/anim.img",
                       "name":  "anim.img",
                       "size":  10942464
                   },
                   {
                       "gpu":  "all",
                       "path":  "anim/cuts.img",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/anim/cuts.img",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/anim/cuts.img",
                       "name":  "cuts.img",
                       "size":  16029696
                   },
                   {
                       "gpu":  "all",
                       "path":  "anim/ped.ifp",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/anim/ped.ifp",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/anim/ped.ifp",
                       "name":  "ped.ifp",
                       "size":  1433248
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/AudioEventHistory.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/AudioEventHistory.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/AudioEventHistory.txt",
                       "name":  "AudioEventHistory.txt",
                       "size":  114056
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/BankLkup.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/BankLkup.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/BankLkup.dat",
                       "name":  "BankLkup.dat",
                       "size":  8520
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/BankSlot.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/BankSlot.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/BankSlot.dat",
                       "name":  "BankSlot.dat",
                       "size":  216902
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/EventVol.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/EventVol.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/EventVol.dat",
                       "name":  "EventVol.dat",
                       "size":  45402
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/PakFiles.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/PakFiles.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/PakFiles.dat",
                       "name":  "PakFiles.dat",
                       "size":  468
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/SOUNDINF.DAT",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/SOUNDINF.DAT",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/SOUNDINF.DAT",
                       "name":  "SOUNDINF.DAT",
                       "size":  746760
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/StrmPaks.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/StrmPaks.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/StrmPaks.dat",
                       "name":  "StrmPaks.dat",
                       "size":  272
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/TrakLkup.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/TrakLkup.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/TrakLkup.dat",
                       "name":  "TrakLkup.dat",
                       "size":  23064
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/CONFIG/TRKHEAD.DAT",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/CONFIG/TRKHEAD.DAT",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/TRKHEAD.DAT",
                       "name":  "TRKHEAD.DAT",
                       "size":  15506696
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/SFX/FEET.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/SFX/FEET.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/FEET.osw",
                       "name":  "FEET.osw",
                       "size":  138118
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/SFX/FEET.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/SFX/FEET.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/FEET.osw.idx",
                       "name":  "FEET.osw.idx",
                       "size":  1220
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/SFX/GENRL.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/SFX/GENRL.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/GENRL.osw",
                       "name":  "GENRL.osw",
                       "size":  9362373
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/SFX/GENRL.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/SFX/GENRL.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/GENRL.osw.idx",
                       "name":  "GENRL.osw.idx",
                       "size":  20868
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/SFX/PAIN_A.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/SFX/PAIN_A.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/PAIN_A.osw",
                       "name":  "PAIN_A.osw",
                       "size":  3247335
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/SFX/PAIN_A.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/SFX/PAIN_A.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/PAIN_A.osw.idx",
                       "name":  "PAIN_A.osw.idx",
                       "size":  12836
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/AA.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/AA.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/AA.osw",
                       "name":  "AA.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/AA.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/AA.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/AA.osw.idx",
                       "name":  "AA.osw.idx",
                       "size":  1522
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/ADVERTS.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/ADVERTS.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/ADVERTS.osw",
                       "name":  "ADVERTS.osw",
                       "size":  3516982
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/ADVERTS.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/ADVERTS.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/ADVERTS.osw.idx",
                       "name":  "ADVERTS.osw.idx",
                       "size":  1591
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/AMBIENCE.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/AMBIENCE.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/AMBIENCE.osw",
                       "name":  "AMBIENCE.osw",
                       "size":  22719112
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/AMBIENCE.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/AMBIENCE.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/AMBIENCE.osw.idx",
                       "name":  "AMBIENCE.osw.idx",
                       "size":  924
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/BEATS.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/BEATS.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/BEATS.osw",
                       "name":  "BEATS.osw",
                       "size":  9415375
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/BEATS.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/BEATS.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/BEATS.osw.idx",
                       "name":  "BEATS.osw.idx",
                       "size":  234
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CH.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CH.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CH.osw",
                       "name":  "CH.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CH.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CH.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CH.osw.idx",
                       "name":  "CH.osw.idx",
                       "size":  2994
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CO.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CO.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CO.osw",
                       "name":  "CO.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CO.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CO.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CO.osw.idx",
                       "name":  "CO.osw.idx",
                       "size":  3569
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CR.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CR.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CR.osw",
                       "name":  "CR.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CR.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CR.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CR.osw.idx",
                       "name":  "CR.osw.idx",
                       "size":  3592
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CUTSCENE.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CUTSCENE.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CUTSCENE.osw",
                       "name":  "CUTSCENE.osw",
                       "size":  301175
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/CUTSCENE.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/CUTSCENE.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/CUTSCENE.osw.idx",
                       "name":  "CUTSCENE.osw.idx",
                       "size":  3247
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/DS.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/DS.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/DS.osw",
                       "name":  "DS.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/DS.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/DS.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/DS.osw.idx",
                       "name":  "DS.osw.idx",
                       "size":  4121
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/HC.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/HC.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/HC.osw",
                       "name":  "HC.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/HC.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/HC.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/HC.osw.idx",
                       "name":  "HC.osw.idx",
                       "size":  2649
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/MH.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/MH.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/MH.osw",
                       "name":  "MH.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/MH.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/MH.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/MH.osw.idx",
                       "name":  "MH.osw.idx",
                       "size":  3500
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/MR.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/MR.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/MR.osw",
                       "name":  "MR.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/MR.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/MR.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/MR.osw.idx",
                       "name":  "MR.osw.idx",
                       "size":  3385
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/NJ.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/NJ.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/NJ.osw",
                       "name":  "NJ.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/NJ.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/NJ.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/NJ.osw.idx",
                       "name":  "NJ.osw.idx",
                       "size":  2994
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/RE.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/RE.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/RE.osw",
                       "name":  "RE.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/RE.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/RE.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/RE.osw.idx",
                       "name":  "RE.osw.idx",
                       "size":  3707
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/RG.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/RG.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/RG.osw",
                       "name":  "RG.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/RG.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/RG.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/RG.osw.idx",
                       "name":  "RG.osw.idx",
                       "size":  3914
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/TK.osw",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/TK.osw",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/TK.osw",
                       "name":  "TK.osw",
                       "size":  15462
                   },
                   {
                       "gpu":  "all",
                       "path":  "audio/STREAMS/TK.osw.idx",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/audio/STREAMS/TK.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/TK.osw.idx",
                       "name":  "TK.osw.idx",
                       "size":  2327
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/360Default1280x720.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/360Default1280x720.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/360Default1280x720.cfg",
                       "name":  "360Default1280x720.cfg",
                       "size":  10898
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/360Default960x720.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/360Default960x720.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/360Default960x720.cfg",
                       "name":  "360Default960x720.cfg",
                       "size":  10888
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/animgrp.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/animgrp.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/animgrp.dat",
                       "name":  "animgrp.dat",
                       "size":  3096
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/ar_stats.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/ar_stats.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/ar_stats.dat",
                       "name":  "ar_stats.dat",
                       "size":  3593
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/carcols.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/carcols.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/carcols.dat",
                       "name":  "carcols.dat",
                       "size":  15361
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/cargrp.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/cargrp.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/cargrp.dat",
                       "name":  "cargrp.dat",
                       "size":  3909
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/carmods.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/carmods.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/carmods.dat",
                       "name":  "carmods.dat",
                       "size":  8763
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/clothes.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/clothes.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/clothes.dat",
                       "name":  "clothes.dat",
                       "size":  5317
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/colorcycle.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/colorcycle.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/colorcycle.dat",
                       "name":  "colorcycle.dat",
                       "size":  13612
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/default.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/default.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/default.dat",
                       "name":  "default.dat",
                       "size":  577
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/default.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/default.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/default.ide",
                       "name":  "default.ide",
                       "size":  4679
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/fonts.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/fonts.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/fonts.dat",
                       "name":  "fonts.dat",
                       "size":  3576
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/furnitur.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/furnitur.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/furnitur.dat",
                       "name":  "furnitur.dat",
                       "size":  16480
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/gridref.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/gridref.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/gridref.dat",
                       "name":  "gridref.dat",
                       "size":  1498
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/gta.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/gta.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/gta.dat",
                       "name":  "gta.dat",
                       "size":  3776
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/handling.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/handling.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/handling.cfg",
                       "name":  "handling.cfg",
                       "size":  64532
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/info.zon",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/info.zon",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/info.zon",
                       "name":  "info.zon",
                       "size":  28139
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/map.zon",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/map.zon",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/map.zon",
                       "name":  "map.zon",
                       "size":  436
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/melee.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/melee.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/melee.dat",
                       "name":  "melee.dat",
                       "size":  6306
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/object.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/object.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/object.dat",
                       "name":  "object.dat",
                       "size":  126118
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/ped.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/ped.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/ped.dat",
                       "name":  "ped.dat",
                       "size":  1276
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/pedgrp.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/pedgrp.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/pedgrp.dat",
                       "name":  "pedgrp.dat",
                       "size":  5792
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/peds.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/peds.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/peds.ide",
                       "name":  "peds.ide",
                       "size":  33401
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/pedstats.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/pedstats.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/pedstats.dat",
                       "name":  "pedstats.dat",
                       "size":  3604
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/plants.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/plants.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/plants.dat",
                       "name":  "plants.dat",
                       "size":  9887
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/popcycle.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/popcycle.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/popcycle.dat",
                       "name":  "popcycle.dat",
                       "size":  127108
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/procobj.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/procobj.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/procobj.dat",
                       "name":  "procobj.dat",
                       "size":  10019
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/shopping.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/shopping.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/shopping.dat",
                       "name":  "shopping.dat",
                       "size":  46875
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/ShopUVs.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/ShopUVs.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/ShopUVs.dat",
                       "name":  "ShopUVs.dat",
                       "size":  30509
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/statdisp.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/statdisp.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/statdisp.dat",
                       "name":  "statdisp.dat",
                       "size":  7292
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/surface.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/surface.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/surface.dat",
                       "name":  "surface.dat",
                       "size":  576
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/surfaud.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/surfaud.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/surfaud.dat",
                       "name":  "surfaud.dat",
                       "size":  6530
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/surfinfo.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/surfinfo.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/surfinfo.dat",
                       "name":  "surfinfo.dat",
                       "size":  28106
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/timecyc.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/timecyc.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/timecyc.dat",
                       "name":  "timecyc.dat",
                       "size":  40037
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/TouchDefaultPhone3x2.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/TouchDefaultPhone3x2.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/TouchDefaultPhone3x2.cfg",
                       "name":  "TouchDefaultPhone3x2.cfg",
                       "size":  10912
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/TouchDefaultPhoneWidescreen.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/TouchDefaultPhoneWidescreen.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/TouchDefaultPhoneWidescreen.cfg",
                       "name":  "TouchDefaultPhoneWidescreen.cfg",
                       "size":  10924
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/TouchDefaultTablet4x3.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/TouchDefaultTablet4x3.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/TouchDefaultTablet4x3.cfg",
                       "name":  "TouchDefaultTablet4x3.cfg",
                       "size":  10926
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/TouchDefaultTabletWidescreen.cfg",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/TouchDefaultTabletWidescreen.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/TouchDefaultTabletWidescreen.cfg",
                       "name":  "TouchDefaultTabletWidescreen.cfg",
                       "size":  10923
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/txdcut.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/txdcut.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/txdcut.ide",
                       "name":  "txdcut.ide",
                       "size":  478
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/vehicles.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/vehicles.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/vehicles.ide",
                       "name":  "vehicles.ide",
                       "size":  21093
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/water.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/water.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/water.dat",
                       "name":  "water.dat",
                       "size":  70099
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/water1.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/water1.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/water1.dat",
                       "name":  "water1.dat",
                       "size":  60063
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/weapon.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/weapon.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/weapon.dat",
                       "name":  "weapon.dat",
                       "size":  11602
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/PedEvent.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/PedEvent.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/PedEvent.txt",
                       "name":  "PedEvent.txt",
                       "size":  1298
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/Cop.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/Cop.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/Cop.ped",
                       "name":  "Cop.ped",
                       "size":  4908
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/Fireman.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/Fireman.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/Fireman.ped",
                       "name":  "Fireman.ped",
                       "size":  4435
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/GangMbr.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/GangMbr.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/GangMbr.ped",
                       "name":  "GangMbr.ped",
                       "size":  6194
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/Indoors.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/Indoors.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/Indoors.ped",
                       "name":  "Indoors.ped",
                       "size":  2809
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/MISSION.grp",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/MISSION.grp",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/MISSION.grp",
                       "name":  "MISSION.grp",
                       "size":  2758
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/m_empty.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/m_empty.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/m_empty.ped",
                       "name":  "m_empty.ped",
                       "size":  982
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/m_norm.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/m_norm.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/m_norm.ped",
                       "name":  "m_norm.ped",
                       "size":  4142
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/m_plyr.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/m_plyr.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/m_plyr.ped",
                       "name":  "m_plyr.ped",
                       "size":  2000
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/m_steal.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/m_steal.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/m_steal.ped",
                       "name":  "m_steal.ped",
                       "size":  3663
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/m_tough.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/m_tough.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/m_tough.ped",
                       "name":  "m_tough.ped",
                       "size":  3980
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/m_weak.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/m_weak.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/m_weak.ped",
                       "name":  "m_weak.ped",
                       "size":  4062
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/RANDOM.grp",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/RANDOM.grp",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/RANDOM.grp",
                       "name":  "RANDOM.grp",
                       "size":  4623
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/RANDOM.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/RANDOM.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/RANDOM.ped",
                       "name":  "RANDOM.ped",
                       "size":  4142
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/RANDOM2.grp",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/RANDOM2.grp",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/RANDOM2.grp",
                       "name":  "RANDOM2.grp",
                       "size":  4623
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/R_Norm.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/R_Norm.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/R_Norm.ped",
                       "name":  "R_Norm.ped",
                       "size":  6450
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/R_Tough.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/R_Tough.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/R_Tough.ped",
                       "name":  "R_Tough.ped",
                       "size":  6378
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/Decision/Allowed/R_Weak.ped",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/Decision/Allowed/R_Weak.ped",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/Decision/Allowed/R_Weak.ped",
                       "name":  "R_Weak.ped",
                       "size":  6289
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/Audiozon.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/Audiozon.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/Audiozon.ipl",
                       "name":  "Audiozon.ipl",
                       "size":  10802
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/cull.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/cull.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/cull.ipl",
                       "name":  "cull.ipl",
                       "size":  104318
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/occlu.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/occlu.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/occlu.ipl",
                       "name":  "occlu.ipl",
                       "size":  1012
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/occluint.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/occluint.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/occluint.ipl",
                       "name":  "occluint.ipl",
                       "size":  2338
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/occluLA.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/occluLA.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/occluLA.ipl",
                       "name":  "occluLA.ipl",
                       "size":  35956
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/occlusf.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/occlusf.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/occlusf.ipl",
                       "name":  "occlusf.ipl",
                       "size":  16114
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/occluveg.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/occluveg.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/occluveg.ipl",
                       "name":  "occluveg.ipl",
                       "size":  17944
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/paths.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/paths.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/paths.ipl",
                       "name":  "paths.ipl",
                       "size":  2658607
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/paths2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/paths2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/paths2.ipl",
                       "name":  "paths2.ipl",
                       "size":  2292241
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/paths3.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/paths3.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/paths3.ipl",
                       "name":  "paths3.ipl",
                       "size":  2428066
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/paths4.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/paths4.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/paths4.ipl",
                       "name":  "paths4.ipl",
                       "size":  253014
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/paths5.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/paths5.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/paths5.ipl",
                       "name":  "paths5.ipl",
                       "size":  457678
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/tunnels.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/tunnels.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/tunnels.ipl",
                       "name":  "tunnels.ipl",
                       "size":  3230
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countn2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countn2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countn2.ide",
                       "name":  "countn2.ide",
                       "size":  35439
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countn2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countn2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countn2.ipl",
                       "name":  "countn2.ipl",
                       "size":  41665
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countrye.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countrye.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countrye.ide",
                       "name":  "countrye.ide",
                       "size":  34529
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countrye.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countrye.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countrye.ipl",
                       "name":  "countrye.ipl",
                       "size":  49301
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countryN.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countryN.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countryN.ide",
                       "name":  "countryN.ide",
                       "size":  11308
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countryN.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countryN.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countryN.ipl",
                       "name":  "countryN.ipl",
                       "size":  14407
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countryS.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countryS.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countryS.ide",
                       "name":  "countryS.ide",
                       "size":  18450
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countryS.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countryS.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countryS.ipl",
                       "name":  "countryS.ipl",
                       "size":  33835
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countryW.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countryW.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countryW.ide",
                       "name":  "countryW.ide",
                       "size":  19704
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/countryw.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/countryw.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/countryw.ipl",
                       "name":  "countryw.ipl",
                       "size":  35057
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/country/counxref.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/country/counxref.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/country/counxref.ide",
                       "name":  "counxref.ide",
                       "size":  8494
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/generic/barriers.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/generic/barriers.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/generic/barriers.ide",
                       "name":  "barriers.ide",
                       "size":  1437
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/generic/dynamic.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/generic/dynamic.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/generic/dynamic.ide",
                       "name":  "dynamic.ide",
                       "size":  4611
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/generic/dynamic2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/generic/dynamic2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/generic/dynamic2.ide",
                       "name":  "dynamic2.ide",
                       "size":  10510
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/generic/multiobj.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/generic/multiobj.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/generic/multiobj.ide",
                       "name":  "multiobj.ide",
                       "size":  5020
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/generic/procobj.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/generic/procobj.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/generic/procobj.ide",
                       "name":  "procobj.ide",
                       "size":  4755
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/generic/vegepart.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/generic/vegepart.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/generic/vegepart.ide",
                       "name":  "vegepart.ide",
                       "size":  8062
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int1.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int1.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int1.ide",
                       "name":  "gen_int1.ide",
                       "size":  2747
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int1.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int1.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int1.ipl",
                       "name":  "gen_int1.ipl",
                       "size":  21074
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int2.ide",
                       "name":  "gen_int2.ide",
                       "size":  10941
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int2.ipl",
                       "name":  "gen_int2.ipl",
                       "size":  1683
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int3.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int3.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int3.ide",
                       "name":  "gen_int3.ide",
                       "size":  3252
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int3.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int3.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int3.ipl",
                       "name":  "gen_int3.ipl",
                       "size":  2091
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int4.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int4.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int4.ide",
                       "name":  "gen_int4.ide",
                       "size":  2323
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int4.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int4.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int4.ipl",
                       "name":  "gen_int4.ipl",
                       "size":  1185
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int5.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int5.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int5.ide",
                       "name":  "gen_int5.ide",
                       "size":  4682
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_int5.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_int5.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_int5.ipl",
                       "name":  "gen_int5.ipl",
                       "size":  2988
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_intb.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_intb.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_intb.ide",
                       "name":  "gen_intb.ide",
                       "size":  5459
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/gen_intb.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/gen_intb.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/gen_intb.ipl",
                       "name":  "gen_intb.ipl",
                       "size":  1626
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_cont.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_cont.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_cont.ide",
                       "name":  "int_cont.ide",
                       "size":  385
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_cont.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_cont.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_cont.ipl",
                       "name":  "int_cont.ipl",
                       "size":  910
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_LA.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_LA.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_LA.ide",
                       "name":  "int_LA.ide",
                       "size":  6004
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_LA.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_LA.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_LA.ipl",
                       "name":  "int_LA.ipl",
                       "size":  1312
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_SF.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_SF.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_SF.ide",
                       "name":  "int_SF.ide",
                       "size":  1260
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_SF.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_SF.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_SF.ipl",
                       "name":  "int_SF.ipl",
                       "size":  1334
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_veg.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_veg.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_veg.ide",
                       "name":  "int_veg.ide",
                       "size":  4684
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/int_veg.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/int_veg.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/int_veg.ipl",
                       "name":  "int_veg.ipl",
                       "size":  5299
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/propext.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/propext.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/propext.ide",
                       "name":  "propext.ide",
                       "size":  2340
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/props.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/props.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/props.ide",
                       "name":  "props.ide",
                       "size":  26326
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/props2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/props2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/props2.ide",
                       "name":  "props2.ide",
                       "size":  21174
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/savehous.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/savehous.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/savehous.ide",
                       "name":  "savehous.ide",
                       "size":  1724
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/savehous.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/savehous.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/savehous.ipl",
                       "name":  "savehous.ipl",
                       "size":  2959
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/stadint.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/stadint.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/stadint.ide",
                       "name":  "stadint.ide",
                       "size":  2851
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/interior/stadint.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/interior/stadint.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/interior/stadint.ipl",
                       "name":  "stadint.ipl",
                       "size":  6299
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAe.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAe.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAe.ide",
                       "name":  "LAe.ide",
                       "size":  12249
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAe.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAe.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAe.ipl",
                       "name":  "LAe.ipl",
                       "size":  27328
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAe2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAe2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAe2.ide",
                       "name":  "LAe2.ide",
                       "size":  21907
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAe2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAe2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAe2.ipl",
                       "name":  "LAe2.ipl",
                       "size":  33651
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAhills.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAhills.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAhills.ide",
                       "name":  "LAhills.ide",
                       "size":  10601
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAhills.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAhills.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAhills.ipl",
                       "name":  "LAhills.ipl",
                       "size":  34506
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAn.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAn.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAn.ide",
                       "name":  "LAn.ide",
                       "size":  11107
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAn.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAn.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAn.ipl",
                       "name":  "LAn.ipl",
                       "size":  14264
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAn2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAn2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAn2.ide",
                       "name":  "LAn2.ide",
                       "size":  9565
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAn2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAn2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAn2.ipl",
                       "name":  "LAn2.ipl",
                       "size":  13185
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAs.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAs.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAs.ide",
                       "name":  "LAs.ide",
                       "size":  12575
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAs.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAs.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAs.ipl",
                       "name":  "LAs.ipl",
                       "size":  22414
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAs2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAs2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAs2.ide",
                       "name":  "LAs2.ide",
                       "size":  12364
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAs2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAs2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAs2.ipl",
                       "name":  "LAs2.ipl",
                       "size":  38441
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAw.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAw.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAw.ide",
                       "name":  "LAw.ide",
                       "size":  9412
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAw.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAw.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAw.ipl",
                       "name":  "LAw.ipl",
                       "size":  15105
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAw2.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAw2.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAw2.ide",
                       "name":  "LAw2.ide",
                       "size":  11060
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAw2.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAw2.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAw2.ipl",
                       "name":  "LAw2.ipl",
                       "size":  18232
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LaWn.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LaWn.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LaWn.ide",
                       "name":  "LaWn.ide",
                       "size":  13092
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LaWn.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LaWn.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LaWn.ipl",
                       "name":  "LaWn.ipl",
                       "size":  24330
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/LA/LAxref.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/LA/LAxref.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/LA/LAxref.ide",
                       "name":  "LAxref.ide",
                       "size":  10477
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/leveldes.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/leveldes.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/leveldes.ide",
                       "name":  "leveldes.ide",
                       "size":  360
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/leveldes.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/leveldes.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/leveldes.ipl",
                       "name":  "leveldes.ipl",
                       "size":  165
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/levelmap.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/levelmap.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/levelmap.ide",
                       "name":  "levelmap.ide",
                       "size":  3194
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/levelmap.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/levelmap.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/levelmap.ipl",
                       "name":  "levelmap.ipl",
                       "size":  4675
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/levelxre.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/levelxre.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/levelxre.ide",
                       "name":  "levelxre.ide",
                       "size":  9897
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/seabed.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/seabed.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/seabed.ide",
                       "name":  "seabed.ide",
                       "size":  12039
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/leveldes/seabed.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/leveldes/seabed.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/leveldes/seabed.ipl",
                       "name":  "seabed.ipl",
                       "size":  23342
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFe.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFe.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFe.ide",
                       "name":  "SFe.ide",
                       "size":  16224
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFe.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFe.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFe.ipl",
                       "name":  "SFe.ipl",
                       "size":  26707
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFn.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFn.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFn.ide",
                       "name":  "SFn.ide",
                       "size":  11219
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFn.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFn.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFn.ipl",
                       "name":  "SFn.ipl",
                       "size":  26201
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFs.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFs.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFs.ide",
                       "name":  "SFs.ide",
                       "size":  18948
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFs.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFs.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFs.ipl",
                       "name":  "SFs.ipl",
                       "size":  37969
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFSe.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFSe.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFSe.ide",
                       "name":  "SFSe.ide",
                       "size":  30227
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFSe.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFSe.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFSe.ipl",
                       "name":  "SFSe.ipl",
                       "size":  53359
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFw.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFw.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFw.ide",
                       "name":  "SFw.ide",
                       "size":  16473
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFw.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFw.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFw.ipl",
                       "name":  "SFw.ipl",
                       "size":  29247
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/SF/SFxref.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/SF/SFxref.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/SF/SFxref.ide",
                       "name":  "SFxref.ide",
                       "size":  4631
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegasE.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegasE.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegasE.ide",
                       "name":  "vegasE.ide",
                       "size":  35542
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegasE.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegasE.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegasE.ipl",
                       "name":  "vegasE.ipl",
                       "size":  61084
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/VegasN.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/VegasN.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/VegasN.ide",
                       "name":  "VegasN.ide",
                       "size":  23715
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegasN.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegasN.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegasN.ipl",
                       "name":  "vegasN.ipl",
                       "size":  36651
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/VegasS.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/VegasS.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/VegasS.ide",
                       "name":  "VegasS.ide",
                       "size":  18656
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegasS.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegasS.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegasS.ipl",
                       "name":  "vegasS.ipl",
                       "size":  30343
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/VegasW.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/VegasW.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/VegasW.ide",
                       "name":  "VegasW.ide",
                       "size":  25456
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegasW.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegasW.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegasW.ipl",
                       "name":  "vegasW.ipl",
                       "size":  49867
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegaxref.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegaxref.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegaxref.ide",
                       "name":  "vegaxref.ide",
                       "size":  5751
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/vegas/vegaxref.ipl",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/vegas/vegaxref.ipl",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/vegas/vegaxref.ipl",
                       "name":  "vegaxref.ipl",
                       "size":  3661
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/maps/veh_mods/veh_mods.ide",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/maps/veh_mods/veh_mods.ide",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/maps/veh_mods/veh_mods.ide",
                       "name":  "veh_mods.ide",
                       "size":  7323
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/paths/carrec.img",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/paths/carrec.img",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/paths/carrec.img",
                       "name":  "carrec.img",
                       "size":  2357248
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/paths/ROADBLOX.DAT",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/paths/ROADBLOX.DAT",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/paths/ROADBLOX.DAT",
                       "name":  "ROADBLOX.DAT",
                       "size":  1304
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/paths/tracks.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/paths/tracks.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/paths/tracks.dat",
                       "name":  "tracks.dat",
                       "size":  25474
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/paths/tracks2.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/paths/tracks2.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/paths/tracks2.dat",
                       "name":  "tracks2.dat",
                       "size":  1892
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/paths/tracks3.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/paths/tracks3.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/paths/tracks3.dat",
                       "name":  "tracks3.dat",
                       "size":  8328
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/paths/tracks4.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/paths/tracks4.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/paths/tracks4.dat",
                       "name":  "tracks4.dat",
                       "size":  18347
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/script/mainV1.scm",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/script/mainV1.scm",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/script/mainV1.scm",
                       "name":  "mainV1.scm",
                       "size":  3169778
                   },
                   {
                       "gpu":  "all",
                       "path":  "data/script/scriptv1.img",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/data/script/scriptv1.img",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/data/script/scriptv1.img",
                       "name":  "scriptv1.img",
                       "size":  561152
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/arial.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/arial.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/arial.ttf",
                       "name":  "arial.ttf",
                       "size":  367112
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/arial_bold.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/arial_bold.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/arial_bold.ttf",
                       "name":  "arial_bold.ttf",
                       "size":  352224
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/georgia.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/georgia.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/georgia.ttf",
                       "name":  "georgia.ttf",
                       "size":  219712
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/gtaweap3.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/gtaweap3.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/gtaweap3.ttf",
                       "name":  "gtaweap3.ttf",
                       "size":  104004
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/impact.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/impact.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/impact.ttf",
                       "name":  "impact.ttf",
                       "size":  206784
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/palatino_linotype.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/palatino_linotype.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/palatino_linotype.ttf",
                       "name":  "palatino_linotype.ttf",
                       "size":  489884
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/quartz_ms.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/quartz_ms.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/quartz_ms.ttf",
                       "name":  "quartz_ms.ttf",
                       "size":  51032
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/segoe_print.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/segoe_print.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/segoe_print.ttf",
                       "name":  "segoe_print.ttf",
                       "size":  172448
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/segoe_script.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/segoe_script.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/segoe_script.ttf",
                       "name":  "segoe_script.ttf",
                       "size":  620204
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/tahoma.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/tahoma.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/tahoma.ttf",
                       "name":  "tahoma.ttf",
                       "size":  939280
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/webdings.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/webdings.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/webdings.ttf",
                       "name":  "webdings.ttf",
                       "size":  120560
                   },
                   {
                       "gpu":  "all",
                       "path":  "fonts/wingding.ttf",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/fonts/wingding.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/wingding.ttf",
                       "name":  "wingding.ttf",
                       "size":  82180
                   },
                   {
                       "gpu":  "all",
                       "path":  "models/effects.fxp",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/models/effects.fxp",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/models/effects.fxp",
                       "name":  "effects.fxp",
                       "size":  616708
                   },
                   {
                       "gpu":  "all",
                       "path":  "models/MINFO.BIN",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/models/MINFO.BIN",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/models/MINFO.BIN",
                       "name":  "MINFO.BIN",
                       "size":  41100
                   },
                   {
                       "gpu":  "all",
                       "path":  "models/coll/peds.col",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/models/coll/peds.col",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/models/coll/peds.col",
                       "name":  "peds.col",
                       "size":  21477
                   },
                   {
                       "gpu":  "all",
                       "path":  "models/coll/vehicles.col",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/models/coll/vehicles.col",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/models/coll/vehicles.col",
                       "name":  "vehicles.col",
                       "size":  1096
                   },
                   {
                       "gpu":  "all",
                       "path":  "models/coll/weapons.col",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/models/coll/weapons.col",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/models/coll/weapons.col",
                       "name":  "weapons.col",
                       "size":  560
                   },
@@ -1746,7 +1746,7 @@
                   {
                       "gpu":  "all",
                       "path":  "texdb/player.img",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/player.img",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/player.img",
                       "name":  "player.img",
                       "size":  16412672
                   },
@@ -1760,14 +1760,14 @@
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/gta3/gta3.dxt.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.dxt.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.dxt.tmb",
                       "name":  "gta3.dxt.tmb",
                       "size":  525340
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/gta3/gta3.dxt.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.dxt.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.dxt.toc",
                       "name":  "gta3.dxt.toc",
                       "size":  49784
                   },
@@ -1781,14 +1781,14 @@
                   {
                       "gpu":  "etc",
                       "path":  "texdb/gta3/gta3.etc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.etc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.etc.tmb",
                       "name":  "gta3.etc.tmb",
                       "size":  575452
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/gta3/gta3.etc.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.etc.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.etc.toc",
                       "name":  "gta3.etc.toc",
                       "size":  49784
                   },
@@ -1802,28 +1802,28 @@
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/gta3/gta3.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.pvr.tmb",
                       "name":  "gta3.pvr.tmb",
                       "size":  525340
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/gta3/gta3.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.pvr.toc",
                       "name":  "gta3.pvr.toc",
                       "size":  49784
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/gta3/gta3.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.txt",
                       "name":  "gta3.txt",
                       "size":  792665
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/gta3/gta3.unc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta3/gta3.unc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.unc.tmb",
                       "name":  "gta3.unc.tmb",
                       "size":  1457212
                   },
@@ -1837,14 +1837,14 @@
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/gta_int/gta_int.dxt.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.dxt.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.dxt.tmb",
                       "name":  "gta_int.dxt.tmb",
                       "size":  663408
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/gta_int/gta_int.dxt.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.dxt.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.dxt.toc",
                       "name":  "gta_int.dxt.toc",
                       "size":  10132
                   },
@@ -1858,14 +1858,14 @@
                   {
                       "gpu":  "etc",
                       "path":  "texdb/gta_int/gta_int.etc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.etc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.etc.tmb",
                       "name":  "gta_int.etc.tmb",
                       "size":  663408
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/gta_int/gta_int.etc.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.etc.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.etc.toc",
                       "name":  "gta_int.etc.toc",
                       "size":  10132
                   },
@@ -1879,343 +1879,343 @@
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/gta_int/gta_int.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.pvr.tmb",
                       "name":  "gta_int.pvr.tmb",
                       "size":  663408
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/gta_int/gta_int.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.pvr.toc",
                       "name":  "gta_int.pvr.toc",
                       "size":  10132
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/gta_int/gta_int.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.txt",
                       "name":  "gta_int.txt",
                       "size":  174099
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/gta_int/gta_int.unc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/gta_int/gta_int.unc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.unc.tmb",
                       "name":  "gta_int.unc.tmb",
                       "size":  663408
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.dxt.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.dxt.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.dxt.dat",
                       "name":  "menu.dxt.dat",
                       "size":  5187414
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.dxt.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.dxt.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.dxt.tmb",
                       "name":  "menu.dxt.tmb",
                       "size":  992
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.dxt.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.dxt.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.dxt.toc",
                       "name":  "menu.dxt.toc",
                       "size":  176
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.etc.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.etc.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.etc.dat",
                       "name":  "menu.etc.dat",
                       "size":  6472908
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.etc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.etc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.etc.tmb",
                       "name":  "menu.etc.tmb",
                       "size":  992
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.etc.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.etc.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.etc.toc",
                       "name":  "menu.etc.toc",
                       "size":  176
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.pvr.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.pvr.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.pvr.dat",
                       "name":  "menu.pvr.dat",
                       "size":  6472908
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.pvr.tmb",
                       "name":  "menu.pvr.tmb",
                       "size":  992
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.pvr.toc",
                       "name":  "menu.pvr.toc",
                       "size":  176
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.txt",
                       "name":  "menu.txt",
                       "size":  3147
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/menu/menu.unc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/menu/menu.unc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/menu/menu.unc.tmb",
                       "name":  "menu.unc.tmb",
                       "size":  992
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.dxt.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.dxt.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.dxt.dat",
                       "name":  "mobile.dxt.dat",
                       "size":  7192732
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.dxt.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.dxt.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.dxt.tmb",
                       "name":  "mobile.dxt.tmb",
                       "size":  10904
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.dxt.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.dxt.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.dxt.toc",
                       "name":  "mobile.dxt.toc",
                       "size":  796
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.etc.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.etc.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.etc.dat",
                       "name":  "mobile.etc.dat",
                       "size":  8712314
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.etc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.etc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.etc.tmb",
                       "name":  "mobile.etc.tmb",
                       "size":  3940
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.etc.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.etc.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.etc.toc",
                       "name":  "mobile.etc.toc",
                       "size":  792
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.pvr.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.pvr.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.pvr.dat",
                       "name":  "mobile.pvr.dat",
                       "size":  8329226
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.pvr.tmb",
                       "name":  "mobile.pvr.tmb",
                       "size":  10904
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.pvr.toc",
                       "name":  "mobile.pvr.toc",
                       "size":  796
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.txt",
                       "name":  "mobile.txt",
                       "size":  14502
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.unc.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.unc.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.unc.dat",
                       "name":  "mobile.unc.dat",
                       "size":  5877914
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/mobile/mobile.unc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/mobile/mobile.unc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.unc.tmb",
                       "name":  "mobile.unc.tmb",
                       "size":  3940
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/player/player.pvr.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/player/player.pvr.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/player/player.pvr.dat",
                       "name":  "player.pvr.dat",
                       "size":  6569414
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/player/player.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/player/player.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/player/player.pvr.tmb",
                       "name":  "player.pvr.tmb",
                       "size":  6940
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/player/player.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/player/player.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/player/player.pvr.toc",
                       "name":  "player.pvr.toc",
                       "size":  1580
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/player/player.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/player/player.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/player/player.txt",
                       "name":  "player.txt",
                       "size":  27810
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/playerhi/playerhi.pvr.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/playerhi/playerhi.pvr.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/playerhi/playerhi.pvr.dat",
                       "name":  "playerhi.pvr.dat",
                       "size":  27658902
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/playerhi/playerhi.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/playerhi/playerhi.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/playerhi/playerhi.pvr.tmb",
                       "name":  "playerhi.pvr.tmb",
                       "size":  6940
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/playerhi/playerhi.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/playerhi/playerhi.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/playerhi/playerhi.pvr.toc",
                       "name":  "playerhi.pvr.toc",
                       "size":  1580
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/playerhi/playerhi.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/playerhi/playerhi.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/playerhi/playerhi.txt",
                       "name":  "playerhi.txt",
                       "size":  28087
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/txd/txd.360.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.360.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.360.dat",
                       "name":  "txd.360.dat",
                       "size":  7625578
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/txd/txd.360.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.360.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.360.tmb",
                       "name":  "txd.360.tmb",
                       "size":  31028
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/txd/txd.360.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.360.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.360.toc",
                       "name":  "txd.360.toc",
                       "size":  2376
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/txd/txd.dxt.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.dxt.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.dxt.dat",
                       "name":  "txd.dxt.dat",
                       "size":  9422056
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/txd/txd.dxt.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.dxt.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.dxt.tmb",
                       "name":  "txd.dxt.tmb",
                       "size":  49460
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/txd/txd.dxt.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.dxt.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.dxt.toc",
                       "name":  "txd.dxt.toc",
                       "size":  2376
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/txd/txd.etc.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.etc.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.etc.dat",
                       "name":  "txd.etc.dat",
                       "size":  9422056
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/txd/txd.etc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.etc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.etc.tmb",
                       "name":  "txd.etc.tmb",
                       "size":  49460
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/txd/txd.etc.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.etc.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.etc.toc",
                       "name":  "txd.etc.toc",
                       "size":  2376
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/txd/txd.pvr.dat",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.pvr.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.pvr.dat",
                       "name":  "txd.pvr.dat",
                       "size":  9422056
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/txd/txd.pvr.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.pvr.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.pvr.tmb",
                       "name":  "txd.pvr.tmb",
                       "size":  49460
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/txd/txd.pvr.toc",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.pvr.toc",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.pvr.toc",
                       "name":  "txd.pvr.toc",
                       "size":  2376
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/txd/txd.txt",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.txt",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.txt",
                       "name":  "txd.txt",
                       "size":  43193
                   },
                   {
                       "gpu":  "all",
                       "path":  "texdb/txd/txd.unc.tmb",
-                      "url":  "https://github.com/Sxeldest/nzk-assets/files/texdb/txd/txd.unc.tmb",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.unc.tmb",
                       "name":  "txd.unc.tmb",
                       "size":  59636
                   }
