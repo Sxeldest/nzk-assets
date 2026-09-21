@@ -1830,7 +1830,7 @@
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/gta_int/gta_int.dxt.dat",
-                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int.dxt.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.dxt.dat",
                       "name":  "gta_int.dxt.dat",
                       "size":  48441188
                   },
@@ -1851,7 +1851,7 @@
                   {
                       "gpu":  "etc",
                       "path":  "texdb/gta_int/gta_int.etc.dat",
-                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int.etc.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.etc.dat",
                       "name":  "gta_int.etc.dat",
                       "size":  48441188
                   },
@@ -1872,7 +1872,7 @@
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/gta_int/gta_int.pvr.dat",
-                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int.pvr.dat",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.pvr.dat",
                       "name":  "gta_int.pvr.dat",
                       "size":  48441188
                   },
