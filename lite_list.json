@@ -1755,7 +1755,7 @@
                       "path":  "texdb/gta3/gta3.dxt.dat",
                       "url":  "https://github.com/Sxeldest/nzk-assets/releases/download/game-assets/gta3.dxt.dat",
                       "name":  "gta3.dxt.dat",
-                      "size":  185725552
+                      "size":  185311596
                   },
                   {
                       "gpu":  "dxt",
@@ -1776,14 +1776,14 @@
                       "path":  "texdb/gta3/gta3.etc.dat",
                       "url":  "https://github.com/Sxeldest/nzk-assets/releases/download/game-assets/gta3.etc.dat",
                       "name":  "gta3.etc.dat",
-                      "size":  185725552
+                      "size":  185311596
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/gta3/gta3.etc.tmb",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.etc.tmb",
                       "name":  "gta3.etc.tmb",
-                      "size":  575452
+                      "size":  525340
                   },
                   {
                       "gpu":  "etc",
@@ -1797,7 +1797,7 @@
                       "path":  "texdb/gta3/gta3.pvr.dat",
                       "url":  "https://github.com/Sxeldest/nzk-assets/releases/download/game-assets/gta3.pvr.dat",
                       "name":  "gta3.pvr.dat",
-                      "size":  185725552
+                      "size":  185311596
                   },
                   {
                       "gpu":  "pvr",
@@ -1818,7 +1818,7 @@
                       "path":  "texdb/gta3/gta3.txt",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta3/gta3.txt",
                       "name":  "gta3.txt",
-                      "size":  792665
+                      "size":  805111
                   },
                   {
                       "gpu":  "all",
@@ -1832,7 +1832,7 @@
                       "path":  "texdb/gta_int/gta_int.dxt.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.dxt.dat",
                       "name":  "gta_int.dxt.dat",
-                      "size":  48441188
+                      "size":  13592262
                   },
                   {
                       "gpu":  "dxt",
@@ -1853,7 +1853,7 @@
                       "path":  "texdb/gta_int/gta_int.etc.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.etc.dat",
                       "name":  "gta_int.etc.dat",
-                      "size":  48441188
+                      "size":  13592262
                   },
                   {
                       "gpu":  "etc",
@@ -1874,7 +1874,7 @@
                       "path":  "texdb/gta_int/gta_int.pvr.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/gta_int/gta_int.pvr.dat",
                       "name":  "gta_int.pvr.dat",
-                      "size":  48441188
+                      "size":  13592262
                   },
                   {
                       "gpu":  "pvr",
