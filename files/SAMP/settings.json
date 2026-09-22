@@ -21,11 +21,11 @@
             "modloader": false,
             "modify_files": false,
             "fps_limit": 60,
-            "chat_strings": 5,
+            "chat_strings": 10,
             "font_size": 28,
-            "chat_posx": 100,
+            "chat_posx": 350,
             "chat_posy": 10,
-            "chat_sizex": 400,
+            "chat_sizex": 250,
             "chat_sizey": 150
         }
     }
