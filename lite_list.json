@@ -1986,28 +1986,28 @@
                       "path":  "texdb/mobile/mobile.dxt.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.dxt.dat",
                       "name":  "mobile.dxt.dat",
-                      "size":  7192732
+                      "size":  7267946
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/mobile/mobile.dxt.tmb",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.dxt.tmb",
                       "name":  "mobile.dxt.tmb",
-                      "size":  10904
+                      "size":  3940
                   },
                   {
                       "gpu":  "dxt",
                       "path":  "texdb/mobile/mobile.dxt.toc",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.dxt.toc",
                       "name":  "mobile.dxt.toc",
-                      "size":  796
+                      "size":  792
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/mobile/mobile.etc.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.etc.dat",
                       "name":  "mobile.etc.dat",
-                      "size":  8712314
+                      "size":  7267946
                   },
                   {
                       "gpu":  "etc",
@@ -2028,21 +2028,21 @@
                       "path":  "texdb/mobile/mobile.pvr.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.pvr.dat",
                       "name":  "mobile.pvr.dat",
-                      "size":  8329226
+                      "size":  7267946
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/mobile/mobile.pvr.tmb",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.pvr.tmb",
                       "name":  "mobile.pvr.tmb",
-                      "size":  10904
+                      "size":  3940
                   },
                   {
                       "gpu":  "pvr",
                       "path":  "texdb/mobile/mobile.pvr.toc",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/mobile/mobile.pvr.toc",
                       "name":  "mobile.pvr.toc",
-                      "size":  796
+                      "size":  792
                   },
                   {
                       "gpu":  "all",
