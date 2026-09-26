@@ -9,6 +9,13 @@
                   },
                   {
                       "gpu":  "all",
+                      "path":  "SAMP/mouse.png",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/mouse.png",
+                      "name":  "colorcycle.dat",
+                      "size":  784
+                  },
+                  {
+                      "gpu":  "all",
                       "path":  "SAMP/colorcycle.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/colorcycle.dat",
                       "name":  "colorcycle.dat",
