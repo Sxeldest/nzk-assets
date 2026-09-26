@@ -131,7 +131,7 @@
                       "path":  "texdb/samp/samp.dxt.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/samp/samp.dxt.dat",
                       "name":  "samp.dxt.dat",
-                      "size":  22144848
+                      "size":  22194256
                   },
                   {
                       "gpu":  "all",
@@ -152,7 +152,7 @@
                       "path":  "texdb/samp/samp.etc.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/samp/samp.etc.dat",
                       "name":  "samp.etc.dat",
-                      "size":  33279656
+                      "size":  33329064
                   },
                   {
                       "gpu":  "all",
@@ -173,7 +173,7 @@
                       "path":  "texdb/samp/samp.pvr.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/samp/samp.pvr.dat",
                       "name":  "samp.pvr.dat",
-                      "size":  13894248
+                      "size":  13943656
                   },
                   {
                       "gpu":  "all",
