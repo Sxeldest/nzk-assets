@@ -54,7 +54,7 @@
                       "path":  "audio/CONFIG/AudioEventHistory.txt",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/CONFIG/AudioEventHistory.txt",
                       "name":  "AudioEventHistory.txt",
-                      "size":  114056
+                      "size":  99580
                   },
                   {
                       "gpu":  "all",
@@ -1699,7 +1699,7 @@
                       "path":  "models/effects.fxp",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/models/effects.fxp",
                       "name":  "effects.fxp",
-                      "size":  616708
+                      "size":  573091
                   },
                   {
                       "gpu":  "all",
@@ -2161,14 +2161,14 @@
                       "path":  "texdb/txd/txd.etc.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.etc.dat",
                       "name":  "txd.etc.dat",
-                      "size":  9422056
+                      "size":  7625578
                   },
                   {
                       "gpu":  "etc",
                       "path":  "texdb/txd/txd.etc.tmb",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/texdb/txd/txd.etc.tmb",
                       "name":  "txd.etc.tmb",
-                      "size":  49460
+                      "size":  31028
                   },
                   {
                       "gpu":  "etc",
