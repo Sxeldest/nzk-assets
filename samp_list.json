@@ -16,6 +16,13 @@
                   },
                   {
                       "gpu":  "all",
+                      "path":  "SAMP/sampgui.png",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/sampgui.png",
+                      "name":  "sampgui.png",
+                      "size":  11246
+                  },
+                  {
+                      "gpu":  "all",
                       "path":  "SAMP/colorcycle.dat",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/colorcycle.dat",
                       "name":  "colorcycle.dat",
