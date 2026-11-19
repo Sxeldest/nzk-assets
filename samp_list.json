@@ -9,6 +9,20 @@
                   },
                   {
                       "gpu":  "all",
+                      "path":  "SAMP/blockpunch.png",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/blockpunch.png",
+                      "name":  "blockpunch.png",
+                      "size":  74570
+                  },
+                  {
+                      "gpu":  "all",
+                      "path":  "SAMP/blockpunch_hover.png",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/blockpunch_hover.png",
+                      "name":  "blockpunch_hover.png",
+                      "size":  71578
+                  },
+                  {
+                      "gpu":  "all",
                       "path":  "SAMP/mouse.png",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/SAMP/mouse.png",
                       "name":  "mouse.png",

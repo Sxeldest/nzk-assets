@@ -156,6 +156,20 @@
                   },
                   {
                       "gpu":  "all",
+                      "path":  "audio/SFX/SCRIPT.osw",
+                      "url":  "https://github.com/Sxeldest/nzk-assets/releases/download/game-assets/SCRIPT.osw",
+                      "name":  "SCRIPT.osw",
+                      "size":  99239609
+                  },
+                  {
+                      "gpu":  "all",
+                      "path":  "audio/SFX/SCRIPT.osw.idx",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/SFX/SCRIPT.osw.idx",
+                      "name":  "SCRIPT.osw.idx",
+                      "size":  219236
+                  },
+                  {
+                      "gpu":  "all",
                       "path":  "audio/STREAMS/AA.osw",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/audio/STREAMS/AA.osw",
                       "name":  "AA.osw",
@@ -1637,6 +1651,13 @@
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/gtaweap3.ttf",
                       "name":  "gtaweap3.ttf",
                       "size":  104004
+                  },
+                  {
+                      "gpu":  "all",
+                      "path":  "fonts/sampaux3.ttf",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/fonts/sampaux3.ttf",
+                      "name":  "sampaux3.ttf",
+                      "size":  7376
                   },
                   {
                       "gpu":  "all",
