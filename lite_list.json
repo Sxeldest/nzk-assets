@@ -16,6 +16,13 @@
                   },
                   {
                       "gpu":  "all",
+                      "path":  "KeyboardMappings.cfg",
+                      "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/KeyboardMappings.cfg",
+                      "name":  "KeyboardMappings.cfg",
+                      "size":  3116
+                  },
+                  {
+                      "gpu":  "all",
                       "path":  "stream.ini",
                       "url":  "https://raw.githubusercontent.com/Sxeldest/nzk-assets/refs/heads/main/files/stream.ini",
                       "name":  "stream.ini",
